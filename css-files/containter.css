@@ -4,7 +4,7 @@
   
   .thumbnail {
   width: 100%;
-  margin-bottom: 12px;
+  margin-bottom: 13px;
   }
 
  .video-info {
@@ -28,7 +28,7 @@
    .video-stats {
     margin: 0px;
     color: rgb(96, 96, 96);
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .all-containter {
